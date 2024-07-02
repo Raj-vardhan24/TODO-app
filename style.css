@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url(/photo-1516038858785-1cf85ef58b0a.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:inherit;
+    
+}
+
+h1{
+    text-decoration: underline red;
+}
+
+input{
+    height: 30px;
+    width: 70%;
+    border: 3px solid rgba(255, 255, 255, 0.720);
+}
+.add{
+    height:30px;
+    border: 3px solid rgba(255, 255, 255, 0.720);
+}
+li{
+    text-align: justify;
+}
+.delete
+{
+  margin-bottom: 5px;
+  margin-left: 5px; 
+  border: 3px solid rgba(255, 255, 255, 0.720); 
+}
+
+div{
+    
+   margin: auto;
+   margin-top: 4%;
+    width:50%;
+    height:45rem;
+    background-color: rgba(255, 255, 255, 0.694);
+    border: 3px solid rgba(255, 255, 255, 0.720);
+    border-radius:15%;
+}
+
